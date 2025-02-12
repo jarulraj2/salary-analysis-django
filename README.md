@@ -1,3 +1,4 @@
+![salary_distribution](https://github.com/user-attachments/assets/ef51cf81-2427-4441-baab-52665bd92ad6)
 # Salary Distribution Analysis with Django
 
 This project is a Django web application that visualizes salary distribution using **Matplotlib** and **Seaborn**.
@@ -32,7 +33,8 @@ This project is a Django web application that visualizes salary distribution usi
    ```
 
 ## 📷 Screenshots
-![salary_distribution](https://github.com/user-attachments/assets/b4a9895b-eb8c-4c58-b161-9ad17841dc1e)
+![salary_distribution](https://github.com/user-attachments/assets/4a51ec1c-0984-48f9-8bc2-41d72fe0e5be)
+
 
 
 ---
